@@ -2,6 +2,8 @@
 
 An interactive and intuitive **Streamlit-based web app** that simplifies the process of launching, stopping, and terminating AWS EC2 instances using your own credentials. This tool is designed to be beginner-friendly, yet powerful enough for developers and cloud engineers who want granular control over their EC2 configurations.
 
+<img width="1538" height="1053" alt="image" src="https://github.com/user-attachments/assets/9515a607-16b2-4244-b467-682fe182644e" />
+
 ---
 
 ### Try App - https://ec2-instance-launcher.streamlit.app/
