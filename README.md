@@ -4,6 +4,8 @@ An interactive and intuitive **Streamlit-based web app** that simplifies the pro
 
 ---
 
+### Try App - https://ec2-instance-launcher.streamlit.app/
+
 ## ✨ Features
 
 - 🔑 Secure AWS Credential Input
